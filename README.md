@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/57850833/162584532-6247be25-3fd2-4b33-af8e-41fa1ab98b40.png" width="100%" height="30px">
+<img src="https://user-images.githubusercontent.com/57850833/162584532-6247be25-3fd2-4b33-af8e-41fa1ab98b40.png" width="100%" height="150px">
 
 <h1>Amontada Valley</h1>
 <h2>Alura</h2>
