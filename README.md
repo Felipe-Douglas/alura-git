@@ -7,7 +7,8 @@
 
 <h2>O que foi aprendido</h2>
 <p>Comandos básicos para o terminal do git e como criar versões de projeto</p>
-	
+
+<h2>Alguns comandos do terminal</h2>
 <ul>
 	<li>git add [Arquivo]</li>
 	<li>git push [local] [branch]</li>
