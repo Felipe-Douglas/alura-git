@@ -11,8 +11,8 @@
 	
 <h4>Comando do terminal</h4>
 <ul>
-	<li>git add <arquivo></li>
-	<li>git push <local> <branch></li>
-	<li>git pull <local> <branch></li>
+	<li>git add [Arquivo]</li>
+	<li>git push [local] [branch]</li>
+	<li>git pull [local] [branch]</li>
 	<li>git commit -m "mensagem"</li>
 </ul>
