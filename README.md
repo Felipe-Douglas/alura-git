@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/57850833/162584532-6247be25-3fd2-4b33-af8e-41fa1ab98b40.png)
+<img src="https://user-images.githubusercontent.com/57850833/162584532-6247be25-3fd2-4b33-af8e-41fa1ab98b40.png">
 
 <h1>Amontada Valley</h1>
 <h2>Alura</h2>
